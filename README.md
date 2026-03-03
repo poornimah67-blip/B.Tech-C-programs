@@ -1,3 +1,5 @@
 # B.Tech-C-programs
-print hello world
+1.print hello world
+2.two add two numbers 
+
 
