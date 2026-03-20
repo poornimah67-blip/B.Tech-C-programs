@@ -5,6 +5,7 @@
 4. code to know average of three numbers
 5. code to swap 2 numbers using third variable
 6. code to swap 2 numbers without using third variable 
-7. 
+7. code to print ASCII value
+8. code to show declaration + initialisation 
 
 
