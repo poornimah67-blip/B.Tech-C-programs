@@ -7,5 +7,5 @@
 6. code to swap 2 numbers without using third variable 
 7. code to print ASCII value
 8. code to show declaration + initialisation 
-
+9. code to know the size of int,float,double, char data types.
 
