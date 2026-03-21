@@ -1,0 +1,10 @@
+// size of data types 
+#include<stdio.h>
+int main ()
+{
+int i;float f; char c; double d;
+printf("size of integer data type is:%d",sizeof(i));
+printf("size of floating floating data type is:%d",sizeof(f));
+printf("size of character data type is:%d",sizeof(c));
+printf("size of double data type is:%d",sizeof(d));
+}
