@@ -8,4 +8,4 @@
 7. code to print ASCII value
 8. code to show declaration + initialisation 
 9. code to know the size of int,float,double, char data types.
-
+10. code to check whether the given number is odd or even 
