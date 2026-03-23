@@ -1,1 +1,16 @@
-
+# include<stdio.h>
+int main ()
+{
+float s1,s2,s3,s4,s5, aggregate, percentage;
+// input 5 subject marks 
+printf("enter marks for 5 subjects (out of 100 each):\n");
+scanf("%f %f %f %f %f ",&s1 &s2 &s3 &s4 &s5);
+// calculate aggregate marks 
+aggregate=s1+s2+s3+s4+s5;
+// calculate percentage (aggregate/500*100)
+percentage=aggregate/5;
+//display results 
+printf("\n aggregate marks :%.2f% \500.00", aggregate);
+printf("\n percentage marks :%2f% \n", percentage);
+return 0;
+}
