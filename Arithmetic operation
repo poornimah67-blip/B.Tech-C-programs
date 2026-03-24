@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+    int a = 15, b = 4;
+
+    printf("Addition (15 + 4) = %d\n", a + b);
+    printf("Subtraction (15 - 4) = %d\n", a - b);
+    printf("Multiplication (15 * 4) = %d\n", a * b);
+    printf("Integer Division (15 / 4) = %d\n", a / b);
+    printf("Modulus (15 %% 4) = %d\n", a % b);
+
+    printf("Original value of a = %d\n", a);
+
+    a++;
+    printf("After increment (a++) = %d\n", a);
+
+    return 0;
+}
