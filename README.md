@@ -10,3 +10,4 @@
 9. code to know the size of int,float,double, char data types.
 10. code to check whether the given number is odd or even
 11. code to calculate the aggregate and percentage from the students marks entered by the users
+12. code to perform arithmetic operation 
