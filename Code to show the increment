@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+    int a = 5, b = 5;
+
+    int result1 = ++a + 10;
+    int result2 = b++ + 10;
+
+    printf("Result1 = %d\n", result1);
+    printf("Result2 = %d\n", result2);
+    printf("Value of a = %d\n", a);
+    printf("Value of b = %d\n", b);
+
+    return 0;
+}
