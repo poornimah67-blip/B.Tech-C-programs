@@ -15,3 +15,4 @@
 14. code to show decrement
 15. code to find maximum of three numbers using ternary operation
 16. code to check leap year 
+17. code to check consonant or vowel 
