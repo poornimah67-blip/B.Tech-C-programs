@@ -16,4 +16,5 @@
 15. code to find maximum of three numbers using ternary operation
 16. code to check leap year 
 17. code to check consonant or vowel
-18. code to check alphabets, digits or special character 
+18. code to check alphabets, digits or special character
+19. code to check maximum of 2 values using conditional operator (ternary)
