@@ -18,3 +18,4 @@
 17. code to check consonant or vowel
 18. code to check alphabets, digits or special character
 19. code to check maximum of 2 values using conditional operator (ternary)
+20. code to check maximum of 3 values using conditional operator (ternary)
