@@ -21,3 +21,4 @@
 20. code to check maximum of 3 values using conditional operator (ternary)
 21.  Program to calculate profit or loss based on cost price and selling price
 22.  code to find youngest one 
+23. code to find youngest one using ternary operation 
