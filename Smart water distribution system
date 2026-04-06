@@ -1,0 +1,36 @@
+#include <stdio.h>
+
+int main() {
+    int water[7], i;
+    int normal = 0, warning = 0, penalty = 0;
+    int maxIndex = 0;
+    float sum = 0, avg;
+
+    printf("Enter water consumption for 7 households:\n");
+
+    for(i = 0; i < 7; i++) {
+        scanf("%d", &water[i]);
+        sum += water[i];
+
+        if(water[i] > water[maxIndex]) {
+            maxIndex = i;
+        }
+
+        if(water[i] <= 500)
+            normal++;
+        else if(water[i] <= 800)
+            warning++;
+        else
+            penalty++;
+    }
+
+    avg = sum / 7;
+
+    printf("\nNormal: %d", normal);
+    printf("\nWarning: %d", warning);
+    printf("\nPenalty: %d", penalty);
+    printf("\nHighest consumption: Household %d (%d liters)", maxIndex + 1, water[maxIndex]);
+    printf("\nAverage consumption: %.2f\n", avg);
+
+    return 0;
+}
