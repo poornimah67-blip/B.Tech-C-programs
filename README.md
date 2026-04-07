@@ -22,4 +22,5 @@
 21.  Program to calculate profit or loss based on cost price and selling price
 22.  code to find youngest one 
 23. code to find youngest one using ternary operation
-24.  code for smart water distribution system 
+24.  code for smart water distribution system
+25.  code to Check Armstrong Number
