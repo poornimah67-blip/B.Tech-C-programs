@@ -24,3 +24,4 @@
 23. code to find youngest one using ternary operation
 24.  code for smart water distribution system
 25.  code to Check Armstrong Number
+26.  code of simple calculator 
