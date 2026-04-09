@@ -25,3 +25,4 @@
 24.  code for smart water distribution system
 25.  code to Check Armstrong Number
 26.  code of simple calculator 
+27. code of simple calculator using switch case
