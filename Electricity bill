@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main() {
+    int units;
+    float bill = 0;
+
+    printf("Enter units consumed: ");
+    scanf("%d", &units);
+
+    if (units <= 100) {
+        bill = units * 4;
+    }
+    else if (units <= 300) {
+        bill = (100 * 4) + (units - 100) * 6;
+    }
+    else {
+        bill = (100 * 4) + (200 * 6) + (units - 300) * 9;
+    }
+
+    // Apply 15% tax if units > 500
+    if (units > 500) {
+        bill = bill + (0.15 * bill);
+    }
+
+    printf("Total Bill = ₹%.2f", bill);
+
+    return 0;
+}
