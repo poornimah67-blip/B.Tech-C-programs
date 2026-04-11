@@ -26,3 +26,4 @@
 25.  code to Check Armstrong Number
 26.  code of simple calculator 
 27. code of simple calculator using switch case
+code for electricity bill that has to pay
