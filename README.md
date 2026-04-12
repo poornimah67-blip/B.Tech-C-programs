@@ -23,7 +23,8 @@
 22.  code to find youngest one 
 23. code to find youngest one using ternary operation
 24.  code for smart water distribution system
-25.  code to Check Armstrong Number
-26.  code of simple calculator 
+25. code to Check Armstrong Number
+26. code of simple calculator 
 27. code of simple calculator using switch case
-code for electricity bill that has to pay
+28. code for electricity bill that has to pay
+29. code for factory production Using while loop 
