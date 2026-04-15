@@ -28,3 +28,4 @@
 27. code of simple calculator using switch case
 28. code for electricity bill that has to pay
 29. code for factory production Using while loop 
+30. code for grace marks array program 
