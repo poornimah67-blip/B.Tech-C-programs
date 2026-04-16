@@ -30,4 +30,5 @@
 29. code for factory production Using while loop 
 30. code for grace marks array program
 31. code to find gdc of teo numbers
-32. code for menu driven calculator using switch case 
+32. code for menu driven calculator using switch case
+33. code to find perfect number
