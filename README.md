@@ -29,4 +29,5 @@
 28. code for electricity bill that has to pay
 29. code for factory production Using while loop 
 30. code for grace marks array program
-31. code to find gdc of teo numbers 
+31. code to find gdc of teo numbers
+32. code for menu driven calculator using switch case 
