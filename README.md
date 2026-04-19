@@ -32,4 +32,5 @@
 31. code to find gdc of teo numbers
 32. code for menu driven calculator using switch case
 33. code to find perfect number
-34. code to print 1 to 10 numbers using while loop 
+34. code to print 1 to 10 numbers using while loop
+35. code to Check Whether a Number is a Strong Number
