@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main() {
+    int length, breadth;
+    int area, perimeter;
+
+    printf("Enter length: ");
+    scanf("%d", &length);
+
+    printf("Enter breadth: ");
+    scanf("%d", &breadth);
+
+    area = length * breadth;
+    perimeter = 2 * (length + breadth);
+
+    if (area > perimeter) {
+        printf("Area is greater than perimeter\n");
+    } else {
+        printf("Area is not greater than perimeter\n");
+    }
+
+    return 0;
+}
