@@ -35,4 +35,5 @@
 34. code to print 1 to 10 numbers using while loop
 35. code to Check Whether a Number is a Strong Number
 36. code to write ATM withdrawal system
-37. code to calculate student marks and grade 
+37. code to calculate student marks and grade
+38. code to Check Whether a Triangle is Valid Using Angles
