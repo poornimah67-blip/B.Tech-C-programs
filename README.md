@@ -39,3 +39,4 @@
 38. code to Check Whether a Triangle is Valid Using Angles
 39. code to check whether the area of rectangle is greater than its perimeter
 40. code for Student Grade Calculator System
+41. code to create simple logic system 
